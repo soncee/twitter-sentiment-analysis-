@@ -15,10 +15,10 @@ from pickle import TRUE
 import seaborn as sns
 
 
-api_key = "WMu8MRl34VKMVxFSSntWxGBuU"
-api_secret_key = "JsXbtOw8vPog6C6ENu4MvsXbaJfsOJIGLesFZPv64BDu7VSoER"
-access_token = "1543097817975377920-PKftQa0U6aANGsIJNvLaitrF54LWjx"
-access_token_secret_key = "riQfrSaQEiNP0CpVNYHRz4Axk6OPn9GdTIRHaAFqco7hC"
+api_key = "#"
+api_secret_key = "#"
+access_token = "#"
+access_token_secret_key = "#"
 
 auth = tweepy.OAuthHandler(api_key, api_secret_key)
 auth.set_access_token(access_token,access_token_secret_key)
